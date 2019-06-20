@@ -124,6 +124,12 @@ GitName:AutoGolem
 ConfigURL:https://raw.githubusercontent.com/KaomsHeart/AutoGolem/master/GitUpdateConfig.txt
 Desctription: Automatically cast your golems.
 
+Plugin:BuffUtil
+GitOwner:0xE0D59
+GitName:BuffUtil
+ConfigURL:https://raw.githubusercontent.com/0xE0D59/BuffUtil/master/GitUpdateConfig.txt
+Desctription: Automatically cast your buffs and release charged skills.
+
 Plugin:MinionHealthPlugin
 GitOwner:Stridemann
 GitName:MinionHealthPlugin
